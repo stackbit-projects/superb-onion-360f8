@@ -52,7 +52,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: https://komarev.com/ghpvc/?username=rodolfod2r2&label=Profile%20views&color=0e75b6&style=flat
       relativeUrl: true
 layout: advanced
 ---
