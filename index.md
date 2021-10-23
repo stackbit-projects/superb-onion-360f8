@@ -42,7 +42,7 @@ seo:
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: https://komarev.com/ghpvc/?username=rodolfod2r2&label=Profile%20views&color=0e75b6&style=flat
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
